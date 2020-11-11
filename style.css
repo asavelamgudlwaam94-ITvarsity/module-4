@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Montserrat", sans-serif;
+}
+body{
+  background:gray;
+  font-size: 14px;
+  line-height: 22px;
+  color: blue;
+}
+.table{
+  margin-left: 350px;
+  padding: 20px;
+}
+
+.table td{
+  padding-left: 15px;
+  text-align: left;
+  background: silver;
+  color: Black;
+  border-bottom: 3px solid;
+}
